@@ -1,8 +1,10 @@
 ♜	♞	♝	♛	♚	♝	♞	♜	
-♟	♟	♟	♟	♟	♟	♟	♟	
- 	 	 	 	 	 	 	 	
+ 	♟	♟	♟	♟	♟	♟	♟	
+♟	 	 	 	 	 	 	 	
  	 	 	 	 	 	 	 	
  	 	 	 	 	 	 	 	
  	 	 	 	 	 	 	 	
 ♙	♙	♙	♙	♙	♙	♙	♙	
 ♖	♘	♗	♕	♔	♗	♘	♖	
+
+#una prueba de como se guada el fichero txt
