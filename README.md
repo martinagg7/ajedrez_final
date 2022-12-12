@@ -1,6 +1,6 @@
 # ajedrez_final
 nombre usuario: martinagg7
-link repositorio:
+link repositorio:https://github.com/martinagg7/ajedrez_final.git
 
 
 OBJETIVO TRABAJO:
